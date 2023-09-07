@@ -38,4 +38,4 @@ Before you begin, ensure that you have the following software installed:
 ### Installation
 1. Clone this repository to your local machine using the following Git command:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/JEN-dotcom/UserManagementRESTAPI
